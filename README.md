@@ -1,30 +1,62 @@
-# Sobre o projeto
-Projeto em react-native que realiza o cadastro, atualização, listagem e atualização de movimentacões armazenadas no firebase 
+# Projeto de Movimentações - React Native com Firebase
 
-## 🛠️ Construído com
+Este é um projeto desenvolvido com **React Native** que realiza o cadastro, atualização, listagem e manipulação de movimentações armazenadas no **Firebase**.
 
-React-native 
-javaScript
-typescript
-firebase 
+## 🛠️ Tecnologias Usadas
 
-## tela login:
+- **React Native**: Framework para desenvolvimento de aplicativos móveis.
+- **JavaScript**: Linguagem de programação principal.
+- **TypeScript**: Superset de JavaScript, adicionando tipagem estática.
+- **Firebase**: Plataforma para armazenamento e backend em tempo real.
 
-<img src="imagens/login.png" alt="Tela home" style=" width: 500px; height: 800px;  align-items: center; justify-content: center;">
+## Funcionalidades
 
+- **Tela de Login**: Permite ao usuário se autenticar no aplicativo.
+- **Tela de Cadastro**: O usuário pode criar uma conta.
+- **Tela Principal**: Exibe a listagem das movimentações.
+- **Tela de Cadastro/Atualização de Movimentações**: Permite adicionar ou atualizar movimentações.
+- **Gráfico**: Exibe gráficos baseados nas movimentações cadastradas.
 
-## tela cadastro 
+## Imagens das Telas
 
-<img src="imagens/cadastro.png" alt="Tela lotofacil" style=" width: 500px; height: 800px;  align-items: center; justify-content: center;">
+### Tela de Login
+![Tela de Login](imagens/login.png)
 
-## tela principal 
+### Tela de Cadastro
+![Tela de Cadastro](imagens/cadastro.png)
 
-<img src="imagens/home.png" alt="Tela lotofacil" style=" width: 500px; height: 800px;  align-items: center; justify-content: center;">
+### Tela Principal
+![Tela Principal](imagens/home.png)
 
-## gráfico 
+### Gráfico
+![Gráfico](imagens/grafico.png)
 
-<img src="imagens/grafico.png" alt="Tela lotomania" style=" width: 500px; height: 800px;  align-items: center; justify-content: center;">
+### Tela de Cadastro/Atualização de Movimentações
+![Cadastro/Atualização de Movimentações](imagens/novaMovimentacao.png)
 
-## tela cadastro/ atualização 
+## 🚀 Como Executar
 
-<img src="imagens/novaMovimentacao.png" alt="Tela mega" style=" width: 500px; height: 800px;  align-items: center; justify-content: center;">
+### 1. Clonar o Repositório
+Clone este repositório para sua máquina local usando:
+
+```bash
+git clone https://github.com/seu-usuario/projeto-movimentacoes.git
+
+cd projeto-movimentacoes
+npm install
+
+## 🤝 Contribuição
+Sinta-se à vontade para contribuir com o projeto! Para isso:
+1. Faça um **fork** do repositório.
+2. Crie uma **branch** para sua feature (`git checkout -b minha-feature`).
+3. Faça o **commit** (`git commit -m 'Adicionando nova feature'`).
+4. Faça o **push** para a branch (`git push origin minha-feature`).
+5. Abra um **Pull Request**.
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**. Sinta-se livre para usá-lo e modificá-lo conforme necessário.
+
+---
+
+Desenvolvido com ❤️ por Marcus vinicius 🚀
